@@ -6,7 +6,7 @@ categories: [review,fr,zombies]
 
 (sans spoiler)
 
-Une de mes lubies est de garder un intérêt, au fil des années, pour le genre "zombies" en litérature. Cela a dû commencer il y a une dizaine d'années par un roman acheté et lu un peu par hasard, en vacances. Depuis, je demande aux libraires les nouveautés zombies. La fréquence de publication est assez faible, donc il est facile de suivre sans que ca devienne ma nourriture principale. A chaque fois, je prends plaisir à voir comment l'auteur vient réinstantier les codes du genre, tout en les renouvelant. Je viens de finir "Feed" (1er tome de la trilogie "NewsFlesh") et je suis encore une fois surpris des nouveautés qui sont introduites.
+Une de mes lubies est de garder un intérêt, au fil des années, pour le genre "zombies" en litérature. Cela a dû commencer il y a une dizaine d'années par un roman acheté et lu un peu par hasard, en vacances. Depuis, je demande aux libraires les nouveautés zombies. La fréquence de publication est assez faible, donc il est facile de suivre sans que ca ne devienne ma nourriture principale. A chaque fois, je prends plaisir à voir comment l'auteur vient réinstantier les codes du genre, tout en les renouvelant. Je viens de finir "Feed" (1er tome de la trilogie "NewsFlesh") et je suis encore une fois surpris des nouveautés qui sont introduites.
 
 <!--more-->
 
