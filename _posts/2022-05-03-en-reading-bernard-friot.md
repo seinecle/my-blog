@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading Bernard Friot
-categories: [frio,en,employment,review]
+categories: [friot,en,employment,review]
 ---
 
 [Bernard Friot](https://en.wikipedia.org/wiki/Bernard_Friot) writes fundamental books, which deserve to be read more widely.
