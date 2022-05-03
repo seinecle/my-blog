@@ -67,3 +67,8 @@ And this "gesticulated" lecture, also in French:
 To understand, question and use what I learn from reading Friot, I will need to take notes.
 My intention is to use this blog to inspire me to clean up these notes.
 Hoping that this will make his work more accessible to everyone.
+
+The book I am going to read is ["Puissances du salariat"](https://www.editionspoints.com/ouvrage/puissances-du-salariat-bernard-friot/9782757889145), which is an adapted and augmented version published on 2012 of Friot's thesis, published originally in 1998 :
+
+
+[![Puissances du salariat](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg)](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg){:.glightbox}
