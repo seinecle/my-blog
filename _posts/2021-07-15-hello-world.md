@@ -1,123 +1,28 @@
 ---
 layout: post
-title: Hello World
-categories: [content, demo]
+title: Un bref compte-rendu de "Feed" par Mira Grant
+categories: [review,fr,zombies]
 ---
 
-Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.  
-This post will demonstrate some of the more common content & elements found in posts.  
-Feel free to delete this post when you are ready to publish your first post.  
+(sans spoiler)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Une de mes lubies est de garder un intérêt, au fil des années, pour le genre "zombies" en litérature. Cela a dû commencer il y a une dizaine d'années par un roman acheté et lu un peu par hasard, en vacances. Depuis, je demande aux libraires les nouveautés zombies. La fréquence de publication est assez faible, donc il est facile de suivre sans que ca devienne ma nourriture principale. A chaque fois, je prends plaisir à voir comment l'auteur vient réinstantier les codes du genre, tout en les renouvelant. Je viens de finir "Feed" (1er tome de la trilogie "NewsFlesh") et je suis encore une fois surpris des nouveautés qui sont introduites.
 
-## Some great heading (h2)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 <!--more--
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+### Le (très) mauvais
+J'ai trouvé le roman particulièrement difficile à finir - pas très haletant. J'ai aussi eu envie de très nombreuses fois de le jeter car l'héroïne a tendance à s'abreuver de Coca Cola, et c'est introduit dans la narration comme un placement produit. Par entêtement, je suis néanmoins allé au bout. 
 
-## Another great heading (h2)
+### Le bon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Ce roman a ceci de particulier qu'il met en une société humaine restée stable malgré l'invasion zombie - on n'est pas dans un monde post-apocalyptique. Trois ados ou jeunes adultes, reporters, vont suivre la campagne présidentielle d'un candidat américain. Le pays a subi l'apparition des zombies il y a une trentaine d'années, mais ils ont été contenus et la société a continué à fonctionner. Les zones d'habitation sont protégées, les tests sanguins sont omni-présents, les attaques zombies sont donc rares. C'est la première fois que je vois ce type de scénario. Cette nouveauté est intéressante, on se demande comment la narration va faire jouer cet élément. Ce ne mène finalement pas à grand-chose, mais je reste satisfait d'avoir pu explorer cette possibilité avec ce livre.
 
-### Some great subheading (h3)
+D'un point de vue technique, il était assez bluffant de voir que l'auteur fait de ses personnages des reporters "online", maîtrisant parfaitement les codes de ces nouveaux médias : fréquence des publications, équipes de pigistes distribuées, animation de commmunautés, conscience claire des questions de cybersécurité et de surveillance, obsession pour les ratings, appareils mobiles en main, profusion des modes de captation avec la vidéo au premier plan. Cela aurait été has been et fatiguant pour un roman publié récemment, mais il date de 2010! Pour référence, l'iPhone date de 2007 et les smartphones se sont généralisés en 2010-2012, je dirais.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+Enfin, l'auteur apporte une touche personnelle supplémentaire au genre en détaillant les origines de l'apparition des zombies. Ces précisions ne sont pas offertes en simple arrière-plan, l'héroïne par exemple soufre d'une sensibilité forte à la lumière, liée au virus souche causant l'état zombie, et cette sensibilité vient affecter son quotidien. Le mode de transformation en zombie est aussi détaillé et original, il ne s'agit pas simplement de transmission par morsure.
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+Bilan : pas fan, je reste satisfait d'avoir ajouté ce roman assez original à mes lectures du genre.
 
-### Some great subheading (h3)
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Highlight the code please!!
-
-{% highlight c %}
-float Q_rsqrt( float number )
-{
-	long i;
-	float x2, y;
-	const float threehalfs = 1.5F;
-
-	x2 = number * 0.5F;
-	y  = number;
-	i  = * ( long * ) &y;                       // evil floating point bit level hacking
-	i  = 0x5f3759df - ( i >> 1 );               // what the fuck? 
-	y  = * ( float * ) &i;
-	y  = y * ( threehalfs - ( x2 * y * y ) );   // 1st iteration
-//	y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, this can be removed
-
-	return y;
-}
-{% endhighlight %}
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
