@@ -9,7 +9,7 @@ lang: "fr"
 title: Blog personnel de Clément Levallois
 
 # Short bio or description (displayed in the header)
-description: Réflexions personnelles
+description: Réflexions personnelles / personal reflections
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/round_portrait_smaller.jpg
@@ -59,7 +59,7 @@ footer_links:
 timezone: null
 
 # Excerpt separator
-excerpt_separator: <!--voir plus-->
+excerpt_separator: <!--more-->
 
 #
 # !! You don't need to change any of the configuration flags below !!
