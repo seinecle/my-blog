@@ -28,7 +28,7 @@ For example, he speaks of "direct salary" rather than "net salary", to emphasize
 
 The second contribution of his work is the historical perspective.
 We have memories (from our schoolbooks, from our parents or otherwise) that the history of public services is intimately linked to social and political history.
-For example, social security was instituted in 1945 by the government of General de Gaulle following in the direct line of the work of the National Council of the Resistance.
+For example, social security was instituted in 1945 by the government of General de Gaulle in the direct line of the work of the National Council of the Resistance.
 But why ? It's still intriguing to think that in a country devastated at the end of the war (with ration tickets etc!), we decided to set up new services for the entire population!
 Why so, but also: how did they do it?
 
