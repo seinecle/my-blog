@@ -26,5 +26,7 @@ Bilan : pas fan, je ne lirai pas les deux derniers livres de la trilogie. Je res
 
 [![Feed - the cover](https://kbimages1-a.akamaihd.net/c5448f1a-caf5-4705-9a90-cef8d4ffca58/353/569/90/False/feed-1.jpg)](https://kbimages1-a.akamaihd.net/c5448f1a-caf5-4705-9a90-cef8d4ffca58/353/569/90/False/feed-1.jpg){:.glightbox}
 
+[Read this post in English 🇬🇧](review/en/zombies/2022/05/02/en-feed-by-miran-grant/)
+
 
 
