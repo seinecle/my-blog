@@ -9,11 +9,10 @@ lang: "fr"
 title: Blog personnel de Clément Levallois
 
 # Short bio or description (displayed in the header)
-description: Billets de blog
+description: Réflexions personnelles
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
-
+avatar: /assets/image/round_portrait_smaller.jpg
 #
 # Flags below are optional
 #
@@ -33,7 +32,7 @@ navigation_links:
   - title: Blog
     url: /
 
-  - title: About
+  - title: A propos
     url: /about
 
   - title: Search
