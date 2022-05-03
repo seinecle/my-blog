@@ -33,10 +33,10 @@ navigation_links:
     url: /
 
   - title: A propos
-    url: /about
+    url: /my-blog/about
 
   - title: Search
-    url: /search
+    url: /my-blog/search
 
 # Footer icons
 footer_links:
