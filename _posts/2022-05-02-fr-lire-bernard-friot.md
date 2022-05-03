@@ -65,3 +65,8 @@ Et aussi cette conférence gesticulée:
 Pour comprendre, questionner et utiliser ce que j'apprends à la lecture de Friot, je vais avoir besoin de prendre des notes.
 Mon intention est d'utiliser ce blog pour m'inciter à mettre ces notes au propre.
 En espérant que cela rende ses travaux plus accessibles à tous et toutes. 
+
+Le livre que je vais lire est ["Puissances du salariat"](https://www.editionspoints.com/ouvrage/puissances-du-salariat-bernard-friot/9782757889145), qui est une adaptation augmentée parue en 2012 de sa thèse, elle-même publiée en 1998 :
+
+
+[![Puissances du salariat](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg)](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg){:.glightbox}
