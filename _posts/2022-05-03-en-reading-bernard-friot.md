@@ -72,3 +72,5 @@ The book I am going to read is ["Puissances du salariat"](https://www.editionspo
 
 
 [![Puissances du salariat](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg)](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg){:.glightbox}
+
+[lire ce post en français 🇫🇷](/friot/fr/salariat/review/2022/05/03/fr-lire-bernard-friot/)
