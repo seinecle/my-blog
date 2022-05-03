@@ -6,7 +6,7 @@ categories: [review,fr,zombies]
 
 (sans spoiler)
 
-Une de mes lubies est de garder un intérêt, au fil des années, pour le genre "zombies" en litérature. Cela a dû commencer il y a une dizaine d'années par un roman acheté et lu un peu par hasard, en vacances. Depuis, je demande aux libraires les nouveautés zombies. La fréquence de publication est assez faible, donc il est facile de suivre sans que ca ne devienne ma nourriture principale. A chaque fois, je prends plaisir à voir comment l'auteur vient réinstantier les codes du genre, tout en les renouvelant. Je viens de finir "Feed" (1er tome de la trilogie "NewsFlesh") et je suis encore une fois surpris des nouveautés qui sont introduites.
+Une de mes lubies est de garder un intérêt, au fil des années, pour le genre "zombies" en litérature. Cela a dû commencer il y a une dizaine d'années par un roman acheté et lu un peu par hasard, en vacances. Depuis, je demande aux libraires les nouveautés zombies. La fréquence de publication est assez faible, donc il est facile de suivre sans que ca ne devienne ma nourriture principale. A chaque fois, je prends plaisir à voir comment l'auteur vient réinstantier les codes du genre, tout en les renouvelant. Je viens de finir "[Feed](https://books.google.fr/books/about/Feed.html?id=ClHUjere8vgC)", 1er tome de la trilogie "NewsFlesh". Je suis encore une fois surpris des nouveautés apportées dans un genre pourtant déjà très exploré.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ D'un point de vue technique, il était assez bluffant de voir que l'auteur fait 
 
 Enfin, l'auteur apporte une touche personnelle supplémentaire au genre en détaillant les origines de l'apparition des zombies. Ces précisions ne sont pas offertes en simple arrière-plan, l'héroïne par exemple soufre d'une sensibilité forte à la lumière, liée au virus souche causant l'état zombie, et cette sensibilité vient affecter son quotidien. Le mode de transformation en zombie est aussi détaillé et original, il ne s'agit pas simplement de transmission par morsure.
 
-Bilan : pas fan, je reste satisfait d'avoir ajouté ce roman assez original à mes lectures du genre.
+Bilan : pas fan, je ne lirai pas les deux derniers livres de la trilogie. Je reste satisfait d'avoir ajouté ce roman assez original à mes lectures du genre.
 
 
 [![Feed - the cover](https://kbimages1-a.akamaihd.net/c5448f1a-caf5-4705-9a90-cef8d4ffca58/353/569/90/False/feed-1.jpg)](https://kbimages1-a.akamaihd.net/c5448f1a-caf5-4705-9a90-cef8d4ffca58/353/569/90/False/feed-1.jpg){:.glightbox}
