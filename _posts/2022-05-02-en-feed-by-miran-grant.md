@@ -21,17 +21,17 @@ I found the novel particularly difficult to finish - not very breathless.
 I also wanted to throw it away many times because the heroine tends to drink Coca Cola, and it is introduced into the narrative as a product placement.
 Out of stubbornness, I nevertheless went to the end.
 
-### Good
+### The good
 
 This novel is unique in that it shows a human society that has remained stable despite the zombie invasion - we are not in a post-apocalyptic world.
-Three teenagers or young adults, reporters, will follow the presidential campaign of an American candidate.
+Three young reporters follow the presidential campaign of an American candidate.
 The country suffered from the outbreak of zombies some thirty years ago, but they were contained and society continued to function.
 Residential areas are protected, blood tests are ubiquitous, so zombie attacks are rare.
-This is the first time I have seen this type of scenario.
+This is the first time I have seen this type of scenario - usually it is all about survival in a ravaged world.
 This novelty is interesting, one wonders how the narration will play this element.
 In the end, it doesn't lead to much of a thrill. The book is still worth reading for a view on this rarely explored type of zombie land.
 
-From a technical point of view, it was quite amazing to see that the author made his characters "online" reporters, perfectly mastering the codes of these new media: frequency of publications, distributed teams of freelancers, animation of communities, clear awareness of cybersecurity and surveillance issues, obsession with ratings, mobile devices in hand, profusion of recording methods with video in the foreground.
+From a technical point of view, it was quite amazing to see that the author made her characters "online" reporters, perfectly mastering the codes of these new media: frequency of publications, distributed teams of freelancers, animation of communities, clear awareness of cybersecurity and surveillance issues, obsession with ratings, mobile devices in hand, profusion of recording methods with video in the foreground.
 It would have been tiring for a recently published novel, but it dates from 2010!
 For reference, the iPhone dates back to 2007 and smartphones became mainstream in 2010-2012, I would say.
 It could be instructive to read a recently published novel by the author: perhaps it identifies behaviors and phenomena that are still relatively uncommon?
