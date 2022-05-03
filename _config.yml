@@ -6,7 +6,7 @@
 lang: "fr"
 
 # Name of your site (displayed in the header)
-title: Blog personnel de Clément Levallois
+title: Clement Levallois's blog
 
 # Short bio or description (displayed in the header)
 description: Réflexions personnelles / personal reflections
@@ -53,10 +53,10 @@ footer_links:
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
-#copyright: "This site is made with <3 by *me, myself, and I*."
+copyright: "Clement Levallois 2022"
 
 # Time zone
-timezone: null
+timezone: europe/paris
 
 # Excerpt separator
 excerpt_separator: <!--more-->
