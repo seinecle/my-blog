@@ -28,7 +28,7 @@ Par exemple, il parle de "salaire direct" plutôt que "salaire net", pour soulig
 
 Le second apport de son travail est la perspective historique.
 On a des souvenirs (de nos manuels scolaires, de nos parents ou autre) que l'histoire des services publics est intimement liée à l'histoire sociale et politique.
-Par exemple, la sécurité sociale est instituée en 1945 par le gouvernement du Général de Gaulle suite dans la lignée directe des travaux du Conseil national de la Résistance.
+Par exemple, la sécurité sociale est instituée en 1945 par le gouvernement du Général de Gaulle dans la lignée directe des travaux du Conseil national de la Résistance.
 Mais pourquoi ? C'est quand même intriguant de se dire que dans un pays exangue à la sortie de la guerre (avec les tickets de rationnement etc !), on décide de mettre en place de nouvelles prestations pour toute la population !
 Pourquoi donc, mais aussi : comment ont-ils fait ?
 
