@@ -44,3 +44,5 @@ Conclusion: not a fan, I will not read the last two books of the trilogy. I rema
 
 
 [![Feed - the cover](https://kbimages1-a.akamaihd.net/c5448f1a-caf5-4705-9a90-cef8d4ffca58/353/569/90/False/feed-1.jpg)](https:/ /kbimages1-a.akamaihd.net/c5448f1a-caf5-4705-9a90-cef8d4ffca58/353/569/90/False/feed-1.jpg){:.glightbox}
+
+[lire ce post en français 🇫🇷](/review/fr/zombies/2022/05/02/fr-feed-par-miran-grant/)
