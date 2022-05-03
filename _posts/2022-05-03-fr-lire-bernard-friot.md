@@ -70,3 +70,5 @@ Le livre que je vais lire est ["Puissances du salariat"](https://www.editionspoi
 
 
 [![Puissances du salariat](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg)](https://ref.lamartinieregroupe.com/media/9782757889145/hd/147603_couverture_Hres_0.jpg){:.glightbox}
+
+[Read this post in English 🇬🇧](/friot/en/employment/review/2022/05/03/en-reading-bernard-friot/)
